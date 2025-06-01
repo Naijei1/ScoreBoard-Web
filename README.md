@@ -13,7 +13,7 @@ A simple web-based scoreboard built with HTML, CSS, and JavaScript. This project
 
 ## Demo
 
-[🔗 Live Demo]([https://your-username.github.io/scoreboard](https://score-board-web.vercel.app/)) 
+[🔗 Live Demo](https://score-board-web.vercel.app/)
 
 ## Technologies
 
