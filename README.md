@@ -2,7 +2,7 @@
 
 A simple web-based scoreboard built with HTML, CSS, and JavaScript. This project was created to practice DOM manipulation and responsive front-end design.
 
-![Screenshot](./images/screenshot.png)
+![Screenshot](https://github.com/Naijei1/ScoreBoard-Web/blob/main/Scoreboard.png)
 
 ## Features
 
@@ -13,7 +13,7 @@ A simple web-based scoreboard built with HTML, CSS, and JavaScript. This project
 
 ## Demo
 
-[🔗 Live Demo](https://your-username.github.io/scoreboard) 
+[🔗 Live Demo]([https://your-username.github.io/scoreboard](https://score-board-web.vercel.app/)) 
 
 ## Technologies
 
